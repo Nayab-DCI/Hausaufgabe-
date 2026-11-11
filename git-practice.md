@@ -7,3 +7,4 @@ I learned how to:
 - Create a commit
 - Push my changes to GitHub
 - I am now learning how to synchronize GitHub with my local repository.
+and now learning again
